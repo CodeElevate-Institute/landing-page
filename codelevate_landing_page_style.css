@@ -1783,6 +1783,7 @@ footer {
     }
     
     .step-arrow {
+        display: none;
         transform: rotate(90deg);
     }
     
